@@ -89,7 +89,7 @@
                   </div>
                   <div>
                     <h4 class="font-semibold text-secondary mb-1">{{ $t('contact.info.email.title') }}</h4>
-                    <p class="text-gray-600">{{ $t('contact.info.email.address') }}</p>
+                    <p class="text-gray-600">{{ $t('contact.info.email.address', { email }) }}</p>
                   </div>
                 </div>
 
@@ -309,10 +309,11 @@ export default {
   data() {
     return {
       openFaq: null,
+      email: 'info@mouhamina.com',
       faqs: [
         {
           question: this.$t('contact.faq.items.q1.question'),
-          answer: this.$t('contact.faq.items.q1.answer')
+          answer: this.$t('contact.faq.items.q1.answer', { email: this.email })
         },
         {
           question: this.$t('contact.faq.items.q2.question'),
