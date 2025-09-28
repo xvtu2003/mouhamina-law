@@ -433,9 +433,9 @@ export default {
       },
       phone: {
         title: 'Phone Numbers',
-        office: 'Office: <span class="phone-number">+963 944 247 225</span>',
-        rula: 'Rula Bash Imam: <span class="phone-number">+963 944 247 225</span>',
-        louay: 'Louay Shnoudy: <span class="phone-number">+963 944 247 225</span>'
+        office: 'Office: +963 944 247 225',
+        rula: 'Rula Bash Imam: +963 944 247 225',
+        louay: 'Louay Shnoudy: +963 944 247 225'
       },
       email: {
         title: 'Email',
@@ -490,7 +490,7 @@ export default {
       items: {
         q1: {
           question: 'How can I schedule a consultation?',
-          answer: 'You can schedule a consultation by calling us directly at <span class="phone-number">+963 944 247 225</span>, sending an email to info@mouhamina.com, or filling out the contact form on this page. We typically respond within 24 hours.'
+          answer: 'You can schedule a consultation by calling us directly at +963 944 247 225, sending an email to info@mouhamina.com, or filling out the contact form on this page. We typically respond within 24 hours.'
         },
         q2: {
           question: 'What types of organizations do you work with?',

@@ -53,6 +53,14 @@
     unicode-bidi: embed;
   }
   
+  /* Global phone number pattern fix */
+  .phone-number,
+  [dir="rtl"] .phone-number,
+  [lang="ar"] .phone-number {
+    direction: ltr !important;
+    unicode-bidi: embed !important;
+  }
+  
   .btn-primary {
     @apply bg-primary text-white px-8 py-3 rounded-lg font-medium transition-all duration-500 hover:bg-primary-dark hover:shadow-xl hover:scale-105;
     transform-origin: center;

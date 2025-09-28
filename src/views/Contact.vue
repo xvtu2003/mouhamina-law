@@ -73,9 +73,9 @@
                   </div>
                   <div>
                     <h4 class="font-semibold text-secondary mb-1">{{ $t('contact.info.phone.title') }}</h4>
-                    <p class="text-gray-600" v-html="$t('contact.info.phone.office')"></p>
-                    <p class="text-gray-600" v-html="$t('contact.info.phone.rula')"></p>
-                    <p class="text-gray-600" v-html="$t('contact.info.phone.louay')"></p>
+                    <p class="text-gray-600 phone-number">{{ $t('contact.info.phone.office') }}</p>
+                    <p class="text-gray-600 phone-number">{{ $t('contact.info.phone.rula') }}</p>
+                    <p class="text-gray-600 phone-number">{{ $t('contact.info.phone.louay') }}</p>
                   </div>
                 </div>
 
@@ -288,7 +288,7 @@
                 v-if="openFaq === index"
                 class="px-8 pb-6"
               >
-                <p class="text-gray-600 leading-relaxed" v-html="faq.answer"></p>
+                <p class="text-gray-600 leading-relaxed phone-number">{{ faq.answer }}</p>
               </div>
             </div>
           </div>
