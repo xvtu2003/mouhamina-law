@@ -439,7 +439,7 @@ export default {
       },
       email: {
         title: 'Email',
-        address: 'info@mouhamina.com'
+        address: 'info@@mouhamina.com'
       },
       hours: {
         title: 'Office Hours',
@@ -490,7 +490,7 @@ export default {
       items: {
         q1: {
           question: 'How can I schedule a consultation?',
-          answer: 'You can schedule a consultation by calling us directly at +963 944 247 225, sending an email to info@mouhamina.com, or filling out the contact form on this page. We typically respond within 24 hours.'
+          answer: 'You can schedule a consultation by calling us directly at +963 944 247 225, sending an email to info@@mouhamina.com, or filling out the contact form on this page. We typically respond within 24 hours.'
         },
         q2: {
           question: 'What types of organizations do you work with?',
