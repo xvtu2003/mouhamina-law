@@ -59,7 +59,7 @@ export default {
     },
     cta: {
       title: 'Ready to Get Legal Consultation?',
-      description: 'Contact us today for expert legal guidance tailored to your specific needs. We\'re here to help you navigate complex legal challenges.',
+      description: 'Contact us today for expert legal guidance tailored to your specific needs. We are here to help you navigate complex legal challenges.',
       contactNow: 'Contact Us Now'
     }
   },
@@ -92,7 +92,7 @@ export default {
       },
       confidentiality: {
         title: 'Confidentiality',
-        description: 'Safeguarding clients\' information and privacy, ensuring the protection of sensitive data from unauthorized disclosure or use.'
+        description: 'Safeguarding clients information and privacy, ensuring the protection of sensitive data from unauthorized disclosure or use.'
       },
       innovation: {
         title: 'Innovation',
@@ -150,7 +150,7 @@ export default {
     },
     journey: {
       title: 'Professional Journey',
-      description: 'From practicing lawyer to founding one of Syria\'s leading legal consultancies, Rula\'s journey reflects dedication to legal excellence and community service.'
+      description: 'From practicing lawyer to founding one of Syria leading legal consultancies, Rula journey reflects dedication to legal excellence and community service.'
     },
     team: {
       title: 'Our Legal Team',
@@ -158,7 +158,7 @@ export default {
       louay: {
         name: 'Louay Shnoudy',
         title: 'Co-Founder, Senior Legal Counsel & Certified Professional Trainer',
-        specialization: 'Distinguished legal expert with 15+ years of experience in civil law, corporate licensing, legislative reform, and professional training. Key figure in major Syrian legal reform initiatives including child protection laws and women\'s rights legislation.'
+        specialization: 'Distinguished legal expert with 15+ years of experience in civil law, corporate licensing, legislative reform, and professional training. Key figure in major Syrian legal reform initiatives including child protection laws and women rights legislation.'
       },
       teamOverview: {
         title: '4 Experts & 2 Lawyers',
@@ -174,11 +174,11 @@ export default {
     louay: {
       legalReform: {
         title: 'Legal Reform & Social Impact',
-        quote: 'Legal expertise must serve the community\'s most vulnerable members. Through legislative reform and grassroots training, we can build a more just and protective legal framework for all.'
+        quote: 'Legal expertise must serve the community most vulnerable members. Through legislative reform and grassroots training, we can build a more just and protective legal framework for all.'
       },
       achievements: {
         title: 'Professional Achievements & Leadership',
-        description: 'Louay\'s career spans legal practice, social advocacy, and legislative reform, making him a key figure in Syria\'s legal and civil society landscape.',
+        description: 'Louay career spans legal practice, social advocacy, and legislative reform, making him a key figure in Syria legal and civil society landscape.',
         legal: {
           title: 'Legal Practice & Legislative Reform',
           items: {
@@ -200,8 +200,8 @@ export default {
       },
       initiatives: {
         title: 'Signature Initiatives & Campaigns',
-        kermalak: { title: '"Kermalak" Campaign', desc: 'Campaign against child sexual harassment focused on awareness and reporting mechanisms.' },
-        halfSociety: { title: '"Half the Society" Campaign', desc: 'Campaign promoting women\'s employment with legal and psychological support.' }
+        kermalak: { title: 'Kermalak Campaign', desc: 'Campaign against child sexual harassment focused on awareness and reporting mechanisms.' },
+        halfSociety: { title: 'Half the Society Campaign', desc: 'Campaign promoting women employment with legal and psychological support.' }
       }
     },
     timeline: {
@@ -216,7 +216,7 @@ export default {
     },
     expertise: {
       title: 'Leadership Expertise',
-      description: 'Our founder\'s expertise spans multiple areas of law, with special focus on civil society and international legal frameworks.',
+      description: 'Our founder expertise spans multiple areas of law, with special focus on civil society and international legal frameworks.',
       items: {
         civilSociety: { title: 'Civil Society Law', desc: 'NGO registration and compliance' },
         corporate: { title: 'Corporate Law', desc: 'Business licensing and contracts' },
@@ -269,7 +269,7 @@ export default {
     // Service 4: Legislative Reform
     reform: {
       title: 'Legislative Reform & Policy Development',
-      description: 'Contributing to legal reforms, policy drafting, and amendments to strengthen civil society and social justice frameworks. We\'ve contributed to amendments of critical legal texts including the Syrian Penal Code.',
+      description: 'Contributing to legal reforms, policy drafting, and amendments to strengthen civil society and social justice frameworks. We have contributed to amendments of critical legal texts including the Syrian Penal Code.',
       features: {
         analysis: 'Policy analysis and drafting',
         advocacy: 'Legislative advocacy',
@@ -279,7 +279,7 @@ export default {
     // Service 5: Capacity Building
     training: {
       title: 'Capacity Building & Training',
-      description: 'Designing and implementing training programs on various legal and governance issues. We\'ve benefited over 931 trainees and are accredited by the Swiss Foreign Ministry as a legal training provider.',
+      description: 'Designing and implementing training programs on various legal and governance issues. We have benefited over 931 trainees and are accredited by the Swiss Foreign Ministry as a legal training provider.',
       features: {
         workshops: 'Legal awareness workshops',
         governance: 'Governance training programs',
@@ -289,7 +289,7 @@ export default {
     // Service 6: Contract Development
     contracts: {
       title: 'Contract Development & Compliance',
-      description: 'Drafting legally sound agreements and contracts to align with international standards. We\'ve successfully drafted and harmonized 45 legal contracts, ensuring alignment between local regulations and international requirements.',
+      description: 'Drafting legally sound agreements and contracts to align with international standards. We have successfully drafted and harmonized 45 legal contracts, ensuring alignment between local regulations and international requirements.',
       features: {
         drafting: 'Contract drafting and review',
         ip: 'Intellectual property protection',
@@ -299,7 +299,7 @@ export default {
     // Collaborations Section
     collaborations: {
       title: 'Notable Collaborations',
-      description: 'We\'ve established strategic partnerships with leading international and local organizations to enhance legal frameworks and support institutional development.',
+      description: 'We have established strategic partnerships with leading international and local organizations to enhance legal frameworks and support institutional development.',
       undp: {
         title: 'UNDP',
         description: 'Led the development of the Legislative Environment Guide, a comprehensive resource for civil society organizations in Syria.'
@@ -459,7 +459,7 @@ export default {
     },
     form: {
       title: 'Send us a Message',
-      subtitle: 'Have a specific legal question or need consultation? Fill out the form below and we\'ll get back to you within 24 hours.',
+      subtitle: 'Have a specific legal question or need consultation? Fill out the form below and we will get back to you within 24 hours.',
       name: 'Full Name',
       email: 'Email Address',
       phone: 'Phone Number',
