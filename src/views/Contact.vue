@@ -1,9 +1,12 @@
 <template>
   <div class="pt-20">
-    <SEOHead 
+    <SEOHead
       title="Contact Mouhamina Law Office - Legal Consultation Damascus Syria"
+      titleAr="اتصل بمحامينا - استشارة قانونية دمشق سوريا"
       description="Contact Mouhamina Law Office for expert legal consultation in Syria. Located in Damascus, Al-Salihiyah. Call +963 944 247 225 or email info@mouhamina.com for professional legal services."
+      descriptionAr="اتصل بمكتب محامينا القانوني للحصول على استشارة قانونية متخصصة في سوريا. يقع مكتب محامينا في دمشق، الصالحية. اتصل بفريق محامينا على 225 247 944 963+ أو راسلنا على info@mouhamina.com للحصول على خدمات قانونية احترافية."
       keywords="contact Mouhamina lawyer, Damascus law office contact, Syria legal consultation, Rula Bash Imam contact, legal services Damascus, Al-Salihiyah law firm, Syria lawyer phone number"
+      keywordsAr="اتصل بمحامينا, محامينا دمشق, رقم مكتب محامينا, استشارة قانونية سوريا, التواصل مع محامينا, خدمات محامينا القانونية دمشق, مكتب محاماة الصالحية, رقم محامي سوريا, مكتب محامينا القانوني دمشق"
       url="/contact"
     />
     <!-- Hero Section -->

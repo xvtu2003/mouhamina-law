@@ -1,9 +1,12 @@
 <template>
   <div class="pt-20">
-    <SEOHead 
+    <SEOHead
       title="Mouhamina Law Office - Leading Legal Consultancy in Syria | Damascus Lawyers"
+      titleAr="محامينا - مكتب محامينا القانوني | الاستشارات القانونية الرائدة في سوريا"
       description="Expert legal services in Syria including NGO registration, business licensing, legal representation, and international legal compliance. Founded by Rula Bash Imam with 18+ years experience serving 117+ organizations."
+      descriptionAr="محامينا - خدمات قانونية متخصصة في سوريا تشمل تسجيل المنظمات، ترخيص الأعمال، التمثيل القانوني، والامتثال القانوني الدولي. فريق محامينا المحترف بقيادة رولا باش إمام مع خبرة 20+ سنة في خدمة 117+ منظمة."
       keywords="Syria lawyer, legal consultancy Syria, Damascus law firm, civil society registration, NGO licensing Syria, legal representation Damascus, business law Syria, international legal services, Rula Bash Imam, محامينا"
+      keywordsAr="محامينا, مكتب محامينا, محامينا سوريا, محامينا دمشق, مكتب محامينا القانوني, فريق محامينا, محامي سوريا, استشارات قانونية سوريا, مكتب محاماة دمشق, تسجيل المنظمات, ترخيص الأعمال سوريا, التمثيل القانوني دمشق, خدمات قانونية دولية, رولا باش إمام"
       url="/"
     />
     <!-- Hero Section -->

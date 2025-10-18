@@ -1,9 +1,12 @@
 <template>
   <div class="pt-20">
-    <SEOHead 
+    <SEOHead
       title="About Mouhamina Law Office - Syria's Premier Legal Consultancy Since 2007"
+      titleAr="عن محامينا - مكتب محامينا القانوني الرائد في سوريا منذ 2007"
       description="Learn about Mouhamina Law Office, founded by Rula Bash Imam in 2014. Discover our mission, vision, core values, and achievements in providing expert legal services in Syria for 18+ years."
+      descriptionAr="تعرف على محامينا - مكتب محامينا القانوني، أسسته رولا باش إمام في 2014. اكتشف مهمة محامينا، رؤيتنا، قيمنا الأساسية، وإنجازاتنا في تقديم خدمات قانونية متخصصة في سوريا لأكثر من 20 سنة."
       keywords="About Mouhamina, Rula Bash Imam, Syria law firm history, legal consultancy Damascus, civil society law Syria, business registration Damascus, legal expertise Syria"
+      keywordsAr="عن محامينا, محامينا, تاريخ مكتب محامينا, رولا باش إمام, تاريخ مكتب القانون السوري, استشارات قانونية دمشق, قانون المجتمع المدني سوريا, تسجيل الأعمال دمشق, الخبرة القانونية سوريا, مكتب محامينا القانوني"
       url="/about"
     />
     <!-- Hero Section -->

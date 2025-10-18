@@ -50,7 +50,7 @@ export default {
       if (!isArabic && this.title) return this.title
       // Default fallbacks
       return isArabic
-        ? 'مكتب محامينا القانوني - الاستشارات القانونية الرائدة في سوريا'
+        ? 'محامينا - مكتب محامينا القانوني | الاستشارات القانونية الرائدة في سوريا'
         : 'Mouhamina Law Office - Leading Legal Consultancy in Syria'
     },
     currentDescription() {
@@ -59,7 +59,7 @@ export default {
       if (!isArabic && this.description) return this.description
       // Default fallbacks
       return isArabic
-        ? 'مكتب محامينا القانوني يقدم خدمات استشارية قانونية متخصصة، تسجيل، ترخيص، وتمثيل قانوني في سوريا. أسسته رولا باش إمام مع خبرة 18+ سنة في خدمة 117+ منظمة.'
+        ? 'محامينا - مكتب محامينا القانوني يقدم خدمات استشارية قانونية متخصصة، تسجيل، ترخيص، وتمثيل قانوني في سوريا. فريق محامينا المحترف أسسته رولا باش إمام مع خبرة 20+ سنة في خدمة 117+ منظمة.'
         : 'Mouhamina Law Office provides expert legal consultancy, registration, licensing, and representation services in Syria. Founded by Rula Bash Imam with 18+ years of experience serving 117+ organizations.'
     },
     currentKeywords() {
@@ -68,7 +68,7 @@ export default {
       if (!isArabic && this.keywords) return this.keywords
       // Default fallbacks
       return isArabic
-        ? 'محامي سوريا, استشارات قانونية سوريا, مكتب محاماة دمشق, تسجيل المجتمع المدني, ترخيص المنظمات سوريا, التمثيل القانوني دمشق, قانون الأعمال سوريا, خدمات قانونية دولية, محامينا'
+        ? 'محامينا, محامينا سوريا, محامينا دمشق, مكتب محامينا, مكتب محامينا القانوني, فريق محامينا, محامي سوريا, استشارات قانونية سوريا, مكتب محاماة دمشق, تسجيل المجتمع المدني, ترخيص المنظمات سوريا, التمثيل القانوني دمشق, قانون الأعمال سوريا, خدمات قانونية دولية, رولا باش إمام, لؤي شنودي'
         : 'Syria lawyer, legal consultancy Syria, Damascus law firm, civil society registration, NGO licensing Syria, legal representation Damascus, business law Syria, international legal services'
     }
   },

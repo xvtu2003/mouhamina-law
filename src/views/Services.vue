@@ -1,9 +1,12 @@
 <template>
   <div class="pt-20">
-    <SEOHead 
+    <SEOHead
       title="Legal Services in Syria - Mouhamina Law Office | NGO Registration & Business Licensing"
+      titleAr="خدمات محامينا القانونية في سوريا | تسجيل المنظمات وترخيص الأعمال"
       description="Complete legal services in Syria: NGO registration, business licensing, legal representation, contract development, capacity building, and legislative reform. Expert legal consultancy for organizations and businesses."
+      descriptionAr="خدمات محامينا القانونية الشاملة في سوريا: تسجيل المنظمات، ترخيص الأعمال، التمثيل القانوني، تطوير العقود، بناء القدرات، والإصلاح التشريعي. استشارات قانونية متخصصة من فريق محامينا للمنظمات والشركات."
       keywords="legal services Syria, NGO registration Syria, business licensing Damascus, legal representation Syria, contract development, capacity building training, legislative reform Syria, civil society registration"
+      keywordsAr="خدمات محامينا, الخدمات القانونية سوريا, محامينا سوريا, تسجيل المنظمات سوريا, ترخيص الأعمال دمشق, التمثيل القانوني سوريا, تطوير العقود, تدريب بناء القدرات, الإصلاح التشريعي سوريا, تسجيل المجتمع المدني, مكتب محامينا القانوني"
       url="/services"
     />
     <!-- Hero Section -->

@@ -1,9 +1,12 @@
 <template>
   <div class="pt-20">
-    <SEOHead 
+    <SEOHead
       title="Founders & Team - Rula Bash Imam | Mouhamina Law Office Leadership"
+      titleAr="الشركاء - رولا باش إمام ولؤي شنودي | محامينا | فريق محامينا القانوني"
       description="Meet Rula Bash Imam, founder of Mouhamina Law Office, and our expert legal team. Discover the leadership behind Syria's premier legal consultancy with 20+ years of experience in civil society and business law."
+      descriptionAr="تعرف على رولا باش إمام، مؤسسة مكتب محامينا القانوني، وفريق محامينا المحترف. اكتشف القيادة وراء أفضل استشارات قانونية في سوريا مع خبرة 20+ سنة في قانون المجتمع المدني والأعمال."
       keywords="Rula Bash Imam lawyer, Mouhamina founders, Syria legal team, Damascus law firm partners, legal experts Syria, Louay Shnoudy lawyer, civil society law expertise"
+      keywordsAr="محامينا, فريق محامينا, الشركاء محامينا, رولا باش إمام, لؤي شنودي, محامي سوريا, فريق قانوني سوريا, شركاء مكتب محاماة دمشق, خبراء قانونيين سوريا, محامينا دمشق, مكتب محامينا القانوني, قانون المجتمع المدني سوريا"
       url="/founders"
     />
     <!-- Hero Section -->
