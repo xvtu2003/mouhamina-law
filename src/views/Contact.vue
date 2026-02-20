@@ -186,7 +186,7 @@
             <div class="bg-white rounded-2xl shadow-xl overflow-hidden">
               <div class="relative h-80">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.787!2d36.294012!3d33.518552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDMxJzA2LjgiTiAzNsKwMTcnMzguNCJF!5e0!3m2!1sen!2s!4v1000000000000!5m2!1sen!2s"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.787!2d36.2925072!3d33.5188942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDMxJzA4LjAiTiAzNsKwMTcnNDIuMyJF!5e0!3m2!1sen!2s!4v1000000000000!5m2!1sen!2s"
                   width="100%"
                   height="100%"
                   style="border:0;"
@@ -207,7 +207,7 @@
                     <h4 class="font-semibold text-secondary mb-1">{{ $t('contact.info.office.address1') }}</h4>
                     <p class="text-sm text-gray-600">{{ $t('contact.info.office.address2') }}</p>
                     <a
-                      href="https://maps.apple.com/?address=Al%20Salhieh%20Street,%20Damascus,%20Syria&ll=33.518552,36.294012&q=My%20Location&t=m"
+                      href="https://www.google.com/maps/place/33%C2%B031'08.0%22N+36%C2%B017'42.3%22E/@33.5188942,36.2925072,17z"
                       target="_blank"
                       class="text-xs text-primary mt-2 inline-block hover:underline"
                     >
